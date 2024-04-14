@@ -4,8 +4,8 @@ city: New York
 is_student: false
 grade:
 - subject: Math
-grade: Dev
+grade: Dev-1
 - subject: English
-grade: Dev
+grade: Dev-1
 - subject: Science
-grade: Dev-
+grade: Dev-1
